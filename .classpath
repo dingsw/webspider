@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="H:/bq_workspace/commons-codec-1.8.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-httpclient-3.0.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/filterbuilder.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/htmllexer.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/htmlparser.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/sitecapturer.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/thumbelina.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-logging-1.1.1.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-logging-1.1.1-javadoc.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-logging-1.1.1-sources.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-logging-adapters-1.1.1.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-logging-api-1.1.1.jar" kind="lib"/>
+	<classpathentry path="H:/bq_workspace/commons-logging-tests.jar" kind="lib"/>
+	<classpathentry path="bin" kind="output"/>
+</classpath>
